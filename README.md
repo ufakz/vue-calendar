@@ -2,7 +2,7 @@
 
 ## A Simple Calendar App I developed with the help of Fullstack Vue
 
-. Ensure you have `npm` installed.
+1. Ensure you have `npm` installed.
 
 2. Install the dependencies
 
